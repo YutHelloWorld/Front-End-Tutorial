@@ -27,5 +27,9 @@
 - [amazeui-react](https://github.com/amazeui/amazeui-react)
 - [material-ui](https://github.com/callemall/material-ui)
 
+## eslint
+
+- [eslint中文](http://eslint.cn/docs/user-guide/configuring)
+
 ## 脚手架
 - [完美react-redux脚手架](https://github.com/YutHelloWorld/react-redux-starter-kit)
