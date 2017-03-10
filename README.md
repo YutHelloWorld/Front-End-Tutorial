@@ -36,5 +36,9 @@
 
 - [eslint中文](http://eslint.cn/docs/user-guide/configuring)
 
+## 代码规范
+
+- [javascript style](https://github.com/airbnb/javascript#properties)
+
 ## 脚手架
 - [完美react-redux-express全栈脚手架](https://github.com/YutHelloWorld/react-redux-starter-kit)
