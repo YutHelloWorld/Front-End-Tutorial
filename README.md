@@ -41,4 +41,4 @@
 - [javascript style](https://github.com/airbnb/javascript#properties)
 
 ## 脚手架
-- [完美react-redux-express全栈脚手架](https://github.com/YutHelloWorld/react-redux-starter-kit)
+- [react-redux脚手架](https://github.com/YutHelloWorld/vortex-react)
