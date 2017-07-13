@@ -15,6 +15,7 @@
 
 - [React](https://facebook.github.io/react/)
 - [React-Demos](https://github.com/ruanyf/react-demos)
+- [React中文](https://discountry.github.io/react/)
 
 ## React-Router
 
