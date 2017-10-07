@@ -40,6 +40,7 @@
 ## 代码规范
 
 - [javascript style](https://github.com/airbnb/javascript#properties)
+- [javascript standard style](https://standardjs.com)
 
 ## 脚手架
 - [react-redux脚手架](https://github.com/YutHelloWorld/vortex-react)
